@@ -56,7 +56,7 @@ CSS3
 JavaScript (ES6)
 
 <br>
-Live Demo: https://github.com/Ahmed-Progs/DrumKit.git
+Live Demo: https://ahmed-progs.github.io/DrumKit/
 <br>
 <br>
 
